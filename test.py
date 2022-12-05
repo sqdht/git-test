@@ -6,3 +6,4 @@ if __name__ == '__main__':
     print('333')
     print('hot fix')
     print('master test')
+    print('hot-fix test')
