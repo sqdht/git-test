@@ -9,3 +9,4 @@ if __name__ == '__main__':
     print('hot-fix test')
     print('push test')
     print('pull test')
+    print('gitee test')  
